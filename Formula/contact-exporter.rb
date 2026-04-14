@@ -3,9 +3,9 @@ class ContactExporter < Formula
 
   desc "Extract iMessage & WhatsApp contacts locally for Powerset"
   homepage "https://github.com/powerset-co/contact-exporter"
-  url "https://github.com/powerset-co/contact-exporter/archive/1897f1b.tar.gz"
-  version "0.1.14"
-  sha256 "455a54379737ab254fba92103b5c74e9cea289140a58a8ad16ec304160a13dea"
+  url "https://github.com/powerset-co/contact-exporter/archive/2a78f9b.tar.gz"
+  version "0.1.15"
+  sha256 "5b0dab26cb1c468969877691eff1074811705e65c09d483ab0fa53f22f283005"
   license "MIT"
 
   depends_on "python@3.12"
